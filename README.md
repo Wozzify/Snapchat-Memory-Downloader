@@ -14,7 +14,7 @@ Snapchat decided that they shouldn't add a queue to this to download them all at
 
 The code is really simple but very effective.
 
-The only problem I have chrome across is the fact that chrome, when you try and download multiple files, asks you each time which causes lots of issues.
+The only problem I have chrome across is the fact that chrome when you try and download multiple files, asks you each time which causes lots of issues, and the fact some EXIF data is not intact so it can mess up if you put it into something like Photos
 
 So my workaround for that was I just used Safari because it doesn't cause problems, you can access the console by Option + Command + "C" then just paste the code inside.
 
