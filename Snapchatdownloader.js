@@ -1,7 +1,7 @@
 // Snapchat-Memory Downloader
 
 var go = 0;
-//This makes the variable = 0
+//0 is the start number
 
 function download(){
     var links = document.getElementsByTagName("table")[0].getElementsByTagName("a");
