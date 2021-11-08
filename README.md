@@ -18,6 +18,7 @@ There is also an issue when using Chrome as when trying to download multiple fil
 
 So my workaround for that was I just used Safari because it doesn't cause problems, you can access the console by Option + Command + "C" then just paste the code inside.
 
+As of 2021, Chrome still seems unable to download multiple files. This works perfectly fine on Opera/Safari/Firefox
 
 If you have any questions please feel free to comment, and I will try and help you out.
 
