@@ -20,7 +20,7 @@ So my workaround for that was I just used Safari because it doesn't cause proble
 
 As of 2021, Chrome still seems unable to download multiple files. This works perfectly fine on Opera/Safari/Firefox
 
-In Firefox, you must go to settings, applications and then save file, otherwise it will just open the file each time its downloaded.
+In Firefox, you must go to settings, applications and then save file, otherwise it will just open the file each time its downloaded, Also type "about:config" and find "media.play-stand-alone" to FALSE
 
 If you have any questions please feel free to comment, and I will try and help you out.
 
