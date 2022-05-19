@@ -18,7 +18,7 @@ function download(){
     //If you don't have a timeout it will just try and download all of them at once. This is the optimum speed but obviously
     //feel free to increase or decrease.
     //it starts the script again every 5 seconds so you have plenty of time to download the files.
-    };
+};
 
 download();
 
